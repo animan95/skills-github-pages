@@ -1,5 +1,4 @@
 ---
-Aniket Mandal: Welcome to my code repository
-All my scripts and toy projects can be found here
+Aniket Mandal: Welcome to my code repository, find all of my scripts and toy projects here
 ---
 
